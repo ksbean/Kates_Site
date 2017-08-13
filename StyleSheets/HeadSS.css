@@ -1,0 +1,28 @@
+﻿.headtool {
+    position: absolute;
+    top: 0px;
+	left: 0px;
+    width: 100%;
+	padding: 2px;
+    font-family: 'Henny Penny';
+	text-align:left;
+	background-color: #000000;
+	color:#FFFFFF;
+	font-size:15px;
+	display:block;
+}
+.smbutton {
+    
+    padding: 10px 8px;
+    cursor: pointer;
+    font-size:20px;
+    font-family: 'Short Stack'; 
+    text-align: center;
+	color:#FFFFFF;
+	display:inline;
+}
+
+
+
+
+    
